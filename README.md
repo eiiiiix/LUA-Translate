@@ -1,7 +1,9 @@
 ## HOW TO USE
 
 run `start linux.sh` for linux
+
 run `start windows.bat` for windows
+
 run the lua file for other platforms
 
 ## INFO
